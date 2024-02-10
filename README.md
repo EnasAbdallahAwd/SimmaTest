@@ -29,6 +29,11 @@ Before you begin, make sure you have the following installed:
   - You should now see the project in your Xcode workspace.
 
 
+## Install
+
+```sh
+pod install
+```
 
 
 ### Running the App ### 
@@ -39,18 +44,6 @@ Before you begin, make sure you have the following installed:
 * Click the `Run` button or use the keyboard shortcut `Cmd + R`.
 * The app should now be running on your device/simulator.
 
-
-## Install
-
-```sh
-pod install
-```
-
-## Usage
-
-```sh
-xed .
-```
 
 ## Assets
 
